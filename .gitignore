@@ -1,2 +1,5 @@
 #local environment, files don't need to be pushed
 /comparison-env 
+
+#zonodo-data folder needs to be downloaded locally, here we just ignore it since files are too large to store on GitHub
+/data/zenodo-data
