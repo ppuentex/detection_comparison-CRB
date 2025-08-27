@@ -5,5 +5,5 @@
 #zonodo-data folder needs to be downloaded locally, here we just ignore it since files are too large to store on GitHub
 /data/zenodo-data
 
-#don't save images included in the pre-processing instructions
-/images
+#don't save .gpkg file
+/data/NHDPLUS_H_1401_HU4_20220414_GPKG
